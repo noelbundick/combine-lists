@@ -1,0 +1,11 @@
+{
+  "name": "combine-lists",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^6.1.4"
+  }
+}

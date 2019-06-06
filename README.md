@@ -10,3 +10,4 @@ The problem can be solved in several languages. Below are the commands used to r
 | -------- | ------- |
 | C# | `dotnet test` |
 | Python | `pytest` |
+| Node | `npm test` |
