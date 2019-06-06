@@ -9,5 +9,6 @@ The problem can be solved in several languages. Below are the commands used to r
 | Language | Command |
 | -------- | ------- |
 | C# | `dotnet test` |
+| Go | `go test` |
+| JavaScript | `npm test` |
 | Python | `pytest` |
-| Node | `npm test` |
